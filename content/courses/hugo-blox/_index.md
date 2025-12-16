@@ -1,6 +1,6 @@
 ---
 linkTitle: Hugo Blox
-title: Learn Hugo Blox in 10 minutes!
+title: sdjhflaksj.dhfkj`shdfpkjl
 date: 2025-09-24
 type: docs
 
